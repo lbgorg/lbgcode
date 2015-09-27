@@ -40,4 +40,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+		<snapshotRepository>
+			<id>lbg-snapshot</id>
+			<url>http://del2llloyds01.sapient.com:8081/nexus/content/repositories/lbg-snapshot/</url>
+		</snapshotRepository>
+		<repository>
+			<id>lbg-releases</id>
+			<url>http://del2llloyds01.sapient.com:8081/nexus/content/repositories/lbg-releases/</url>
+		</repository>
+	</distributionManagement>
 </project>
