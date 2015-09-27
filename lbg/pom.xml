@@ -6,7 +6,7 @@
   <version>${build.number}</version>
   <packaging>jar</packaging>
   <properties>
-      <build.number>SNAPSHOT</build.number>
+      <build.number>1.0-SNAPSHOT</build.number>
   </properties>
   <name>lbg</name>
   <url>http://maven.apache.org</url>
